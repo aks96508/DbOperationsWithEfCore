@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EfCoreApp/.vs/EfCoreApp.slnx
+/EfCoreApp/EfCoreApp/bin/Debug/net8.0
+/EfCoreApp/EfCoreApp/obj

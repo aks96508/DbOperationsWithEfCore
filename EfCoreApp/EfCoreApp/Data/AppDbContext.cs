@@ -8,5 +8,7 @@ namespace EfCoreApp.Data
         {
                 
         }
+
+        DbSet<Book> Books { get; set; } 
     }
 }
